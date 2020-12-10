@@ -6,3 +6,6 @@ Used a linked list data structure to implement a stack. The program solves given
 
 # Range Average Query
 Implemented two different solutions for the Range Average Query problem, each with a different asymptotic running time. The two implementations were Dynamic Programming and Block Decomposition
+
+# Treaps (Binary Trees)
+Constructed and used binary search trees and wrote a tree rebalancing algorithm (single rotations). The tree had to keep the Max-Heap Property throughout the entire program. 
