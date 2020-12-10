@@ -9,3 +9,6 @@ Implemented two different solutions for the Range Average Query problem, each wi
 
 # Treaps (Binary Trees)
 Constructed and used binary search trees and wrote a tree rebalancing algorithm (single rotations). The tree had to keep the Max-Heap Property throughout the entire program. 
+
+# Skew Heaps
+Implemented a skew heap and gained additional experience constructing and using binary trees. Also learned how to use function pointers and tagged unions. The skew heap used contains both strings and integers using the tagged union construction. 
