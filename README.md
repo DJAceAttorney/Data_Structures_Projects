@@ -12,3 +12,6 @@ Constructed and used binary search trees and wrote a tree rebalancing algorithm 
 
 # Skew Heaps
 Implemented a skew heap and gained additional experience constructing and using binary trees. Also learned how to use function pointers and tagged unions. The skew heap used contains both strings and integers using the tagged union construction. 
+
+# Hashing & Heaps
+Implemented a heap and hash table, implemented linear probing to handle collisions, and worked with templated classes. 
