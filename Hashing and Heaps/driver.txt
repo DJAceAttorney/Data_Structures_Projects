@@ -1,0 +1,100 @@
+
+Dump of ht:
+[0]:
+[1]:
+cinnamon (priority 11, super donut)
+cinnamon (priority 3, shack of donuts)
+[2]:
+[3]:
+[4]:
+boston cream (priority 10, mega donut)
+boston cream (priority 5, donut world)
+boston cream (priority 3, donut joint)
+[5]:
+glazed (priority 12, mega donut)
+glazed (priority 5, super donut)
+glazed (priority 4, shack of donuts)
+[6]:
+sprinkle (priority 15, super donut)
+sprinkle (priority 7, donut world)
+sprinkle (priority 8, shack of donuts)
+[7]:
+bavarian cream (priority 28, mega donut)
+[8]:
+[9]:
+
+Get next 'boston cream' order...
+  boston cream (priority 10, mega donut)
+
+Get next 'bavarian cream' order...
+  bavarian cream (priority 28, mega donut)
+
+Get next 'cinnamon' order...
+  cinnamon (priority 11, super donut)
+
+Get next 'cinnamon' order...
+  cinnamon (priority 3, shack of donuts)
+
+Get next 'cinnamon' order...
+  No cinnamon orders!
+
+
+Dump of ht:
+[0]:
+[1]:
+[2]:
+[3]:
+[4]:
+boston cream (priority 5, donut world)
+boston cream (priority 3, donut joint)
+[5]:
+glazed (priority 12, mega donut)
+glazed (priority 5, super donut)
+glazed (priority 4, shack of donuts)
+[6]:
+sprinkle (priority 15, super donut)
+sprinkle (priority 7, donut world)
+sprinkle (priority 8, shack of donuts)
+[7]:
+[8]:
+[9]:
+
+Create copy of hash table, remove two 'sprinkle' orders, dump both tables...
+
+Dump of ht:
+[0]:
+[1]:
+[2]:
+[3]:
+[4]:
+boston cream (priority 5, donut world)
+boston cream (priority 3, donut joint)
+[5]:
+glazed (priority 12, mega donut)
+glazed (priority 5, super donut)
+glazed (priority 4, shack of donuts)
+[6]:
+sprinkle (priority 15, super donut)
+sprinkle (priority 7, donut world)
+sprinkle (priority 8, shack of donuts)
+[7]:
+[8]:
+[9]:
+
+Dump of ht2:
+[0]:
+[1]:
+[2]:
+[3]:
+[4]:
+boston cream (priority 5, donut world)
+boston cream (priority 3, donut joint)
+[5]:
+glazed (priority 12, mega donut)
+glazed (priority 5, super donut)
+glazed (priority 4, shack of donuts)
+[6]:
+sprinkle (priority 7, donut world)
+[7]:
+[8]:
+[9]:
